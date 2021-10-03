@@ -1,3 +1,7 @@
+---
+title: Stairs
+layout: 
+
 # **_Stairs_**
 Stairs are a very interesting subject, these contraptions have a very peculiar ability, the power to eleveate and lower an object by simply walking on top of the stairs.
 ###  Types of Stairs
